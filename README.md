@@ -1,4 +1,5 @@
 # 읽어볼 것들
+
 1. Chrome DevTools 관련 팁
     - https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674
 1. Typescript Generic 관련 
