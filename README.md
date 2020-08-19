@@ -1,5 +1,7 @@
 # 읽어볼 것들
 
+1. Typescript Generic 관련 
+    - https://effectivetypescript.com/2020/08/12/generics-golden-rule/
 1. Micro frontend 관련 
     - https://medium.com/nextux/design-better-forms-96fadca0f49c
     - https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a
