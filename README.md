@@ -19,3 +19,5 @@
     - https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
 1. Design Better Forms 
     - https://medium.com/nextux/design-better-forms-96fadca0f49c
+1. useHooks
+    - https://usehooks-typescript.com/
